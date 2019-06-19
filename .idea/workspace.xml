@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693db362-be73-4b5e-a673-34ca53121284" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplo3/ServicoDeEntrega.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo3/Frete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplo3/Frete.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -45,6 +45,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="37" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exemplo3/ServicoDeEntrega.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exemplo3/Frete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -135,8 +153,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -165,10 +183,11 @@
         <option value="$PROJECT_DIR$/src/exemplo2/EnviadorDeEmail.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/CalculadoraDePrecos.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/TabelaDePrecosPadrao.java" />
-        <option value="$PROJECT_DIR$/src/exemplo3/Frete.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/Compra.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java" />
+        <option value="$PROJECT_DIR$/src/exemplo3/ServicoDeEntrega.java" />
+        <option value="$PROJECT_DIR$/src/exemplo3/Frete.java" />
       </list>
     </option>
   </component>
@@ -254,7 +273,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6038000" />
+    <option name="totallyTimeSpent" value="6220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -412,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exemplo3/Frete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exemplo2/NotaFiscalDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -471,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exemplo2/GeradorDeNotaFiscal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -493,6 +498,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exemplo3/ServicoDeEntrega.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exemplo3/Frete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
         </state>
       </provider>
     </entry>
