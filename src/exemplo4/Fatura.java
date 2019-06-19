@@ -34,8 +34,13 @@ public class Fatura {
         return pago;
     }
 
-    public void setPago(boolean pago) {
-        this.pago = pago;
+    public void marcarFaturaComoPaga(){
+        if (this.valor > 100){
+            this.pago = true;
+        }else {
+            this.pago = false;
+        }
+
     }
 
 

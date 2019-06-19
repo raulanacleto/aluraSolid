@@ -15,7 +15,7 @@ public class ProcessadorDeBoletos {
         }
 
         if (total >= fatura.getValor()) {
-            fatura.setPago(true);
+            fatura.marcarFaturaComoPaga();
         }
     }
 }
