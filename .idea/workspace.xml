@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693db362-be73-4b5e-a673-34ca53121284" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +34,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -157,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/exemplo3/TabelaDePrecosPadrao.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/Frete.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/Compra.java" />
+        <option value="$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java" />
         <option value="$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java" />
       </list>
     </option>
@@ -243,7 +254,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5890000" />
+    <option name="totallyTimeSpent" value="6038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -401,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exemplo3/Frete.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -467,6 +471,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePrecoPadrao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exemplo2/GeradorDeNotaFiscal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -480,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exemplo3/TabelaDePreco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
