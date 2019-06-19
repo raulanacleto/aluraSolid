@@ -16,10 +16,14 @@ public class ProcessadorDeInvestimentos {
     }
 
     private static List<ContaComum> contasDoBanco() {
-        return Arrays.asList(umaContaCom(100), umaContaCom(150), contaDeEstudanteCom(200));
+        return Arrays.asList(umaContaCom(100), umaContaCom(150));
     }
 
-    private static ContaComum contaDeEstudanteCom(double amount) {
+    private static List<ContaDeEstudante> contasDoBancoEstudante() {
+        return Arrays.asList(contaDeEstudanteCom(200));
+    }
+
+    private static ContaDeEstudante contaDeEstudanteCom(double amount) {
         ContaDeEstudante c = new ContaDeEstudante();
         c.deposita(amount);
         return c;
